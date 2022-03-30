@@ -7,5 +7,6 @@
 ### - ArrayName[] public name;
 ### - function functionName(typeVarN _varN, ... ) public {}
 ### - mapping(type1 => type2) public name;
+### The file can be run in Remix or VSC
 
 
