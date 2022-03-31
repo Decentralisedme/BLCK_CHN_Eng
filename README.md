@@ -1,7 +1,7 @@
 # BLCK_CHN_Eng
 ## Sol Basic:
 ### In each file there will be examples of specific use of Solidity language:
-### A) MyRun: simple use of 
+### A) MyRun: you can create a list of runs you do specifying name of the run and related distance in Km. It is a simple example of:
 ### - Contract{}
 ### - struct Name{typeVarN VarN;...}
 ### - ArrayName[] public name;
